@@ -158,3 +158,4 @@ while True:
 
 wn.mainloop()
 print('test')
+print('test')
