@@ -157,5 +157,3 @@ while True:
 	time.sleep(delay)
 
 wn.mainloop()
-print('test')
-print('test')
